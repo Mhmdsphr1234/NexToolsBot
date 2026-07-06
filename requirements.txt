@@ -1,0 +1,10 @@
+aiogram==3.29.1
+python-dotenv==1.0.1
+pydantic-settings==2.6.1
+yt-dlp>=2024.12.13
+spotdl>=4.2.10
+Pillow>=10.4.0
+PyMuPDF>=1.24.10
+pytesseract>=0.3.13
+shazamio>=0.8.1
+aiohttp>=3.10.0

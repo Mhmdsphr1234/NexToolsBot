@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+downloads/*
+!downloads/.gitkeep
+logs/*
+!logs/.gitkeep
+*.spotdlTrackingFile
+.spotdl/
